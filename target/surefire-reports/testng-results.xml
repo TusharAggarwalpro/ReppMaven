@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="11217" started-at="2018-03-13T05:31:43Z" finished-at="2018-03-13T05:31:54Z">
+  <suite name="TestSuite" duration-ms="43839" started-at="2018-03-13T09:17:40Z" finished-at="2018-03-13T09:18:24Z">
     <groups>
     </groups>
-    <test name="New" duration-ms="11217" started-at="2018-03-13T05:31:43Z" finished-at="2018-03-13T05:31:54Z">
+    <test name="New" duration-ms="43839" started-at="2018-03-13T09:17:40Z" finished-at="2018-03-13T09:18:24Z">
       <class name="sample.maven.SampleMavTest">
-        <test-method status="PASS" signature="Sample()[pri:0, instance:sample.maven.SampleMavTest@3a5ed7a6]" name="Sample" duration-ms="11169" started-at="2018-03-13T05:31:43Z" finished-at="2018-03-13T05:31:54Z">
+        <test-method status="PASS" signature="Sample()[pri:0, instance:sample.maven.SampleMavTest@3a5ed7a6]" name="Sample" duration-ms="43796" started-at="2018-03-13T09:17:40Z" finished-at="2018-03-13T09:18:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sample -->
