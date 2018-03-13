@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestSuite]">
+  <test name="New(failed)">
+    <classes>
+      <class name="sample.maven.SampleMavTest">
+        <methods>
+          <include name="Sample"/>
+        </methods>
+      </class> <!-- sample.maven.SampleMavTest -->
+    </classes>
+  </test> <!-- New(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
